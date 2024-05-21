@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/ConversionTipos/ConversionTipos.iml" filepath="$PROJECT_DIR$/ConversionTipos/ConversionTipos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EjemploLogin/EjemploLogin.iml" filepath="$PROJECT_DIR$/EjemploLogin/EjemploLogin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Operadores/Operadores.iml" filepath="$PROJECT_DIR$/Operadores/Operadores.iml" />
       <module fileurl="file://$PROJECT_DIR$/Variables/Variables.iml" filepath="$PROJECT_DIR$/Variables/Variables.iml" />
       <module fileurl="file://$PROJECT_DIR$/Ventanas/Ventanas.iml" filepath="$PROJECT_DIR$/Ventanas/Ventanas.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/curso_java_udemy.iml" filepath="$PROJECT_DIR$/.idea/curso_java_udemy.iml" />
