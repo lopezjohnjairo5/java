@@ -72,5 +72,30 @@ public class Main {
         int operador1 = (int)(Math.random() * 10 + 1), operador2 = (int)(Math.random() * 10 + 1);
         boolean resultado = operador1 == operador2 ? true : false;
         System.out.println("resultado del operador ternario entre " + operador1 +" == " + operador2 + " = " + resultado);
+
+        // prioridad / precedencia de operadores
+        /*
+        * orden de mayor importancia a menor
+        * - ++ y -- (incremento y decremento)
+        * - ()
+        * - * y /
+        * - + y -
+        * - relacionales (<, >, <=, >=, etc...)
+        * - booleanos ( !=, ==)
+        * - logicos (&&, ||, ^, !)
+        * - operador ternario ?
+        * - asignacion (+=, -=, *=, /=)
+        * */
+        int i = 14, j = 8, k = 20;
+        double promedio = (i + j + k) / 3d; // la d indica que es un double
+        System.out.println("promedio = " + promedio);
+
+        // ejemplos utilizando operadores de incremento y decremento
+        promedio = ++i + j-- + k / 3d * 10; // la d indica que es un double
+        System.out.println("promedio = " + promedio);
+
+        promedio = ++i + --j + k / 3d * 10; // la d indica que es un double
+        System.out.println("promedio = " + promedio);
+
     }
 }
