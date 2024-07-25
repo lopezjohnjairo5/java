@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/curso_java/ArgumentosLineaComandos/ArgumentosLineaComandos.iml" filepath="$PROJECT_DIR$/curso_java/ArgumentosLineaComandos/ArgumentosLineaComandos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/curso_java/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/curso_java/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/curso_java/Bucles/Bucles.iml" filepath="$PROJECT_DIR$/curso_java/Bucles/Bucles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/curso_java/Ejercicios/CalculadoraLineaComandos/CalculadoraLineaComandos.iml" filepath="$PROJECT_DIR$/curso_java/Ejercicios/CalculadoraLineaComandos/CalculadoraLineaComandos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/curso_java/Ejercicios/CalculoEdad/CalculoEdad.iml" filepath="$PROJECT_DIR$/curso_java/Ejercicios/CalculoEdad/CalculoEdad.iml" />
+      <module fileurl="file://$PROJECT_DIR$/curso_java/Ejercicios/CapacidadTanqueGas/CapacidadTanqueGas.iml" filepath="$PROJECT_DIR$/curso_java/Ejercicios/CapacidadTanqueGas/CapacidadTanqueGas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/curso_java/ClaseRuntime/ClaseRuntime.iml" filepath="$PROJECT_DIR$/curso_java/ClaseRuntime/ClaseRuntime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/curso_java/ClaseSystem/ClaseSystem.iml" filepath="$PROJECT_DIR$/curso_java/ClaseSystem/ClaseSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/curso_java/ConversionTipos/ConversionTipos.iml" filepath="$PROJECT_DIR$/curso_java/ConversionTipos/ConversionTipos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/curso_java/Ejercicios/DetalleDeFactura/DetalleDeFactura.iml" filepath="$PROJECT_DIR$/curso_java/Ejercicios/DetalleDeFactura/DetalleDeFactura.iml" />
+      <module fileurl="file://$PROJECT_DIR$/curso_java/Ejercicios/EjemploLogin/EjemploLogin.iml" filepath="$PROJECT_DIR$/curso_java/Ejercicios/EjemploLogin/EjemploLogin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/curso_java/Fechas/Fechas.iml" filepath="$PROJECT_DIR$/curso_java/Fechas/Fechas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/curso_java/Herencia/Herencia.iml" filepath="$PROJECT_DIR$/curso_java/Herencia/Herencia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/curso_java/Ejercicios/ImprimirNombreConsola/ImprimirNombreConsola.iml" filepath="$PROJECT_DIR$/curso_java/Ejercicios/ImprimirNombreConsola/ImprimirNombreConsola.iml" />
+      <module fileurl="file://$PROJECT_DIR$/curso_java/InstanceOf/InstanceOf.iml" filepath="$PROJECT_DIR$/curso_java/InstanceOf/InstanceOf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/curso_java/Matrices/Matrices.iml" filepath="$PROJECT_DIR$/curso_java/Matrices/Matrices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/curso_java/Ejercicios/MenuOpciones/MenuOpciones.iml" filepath="$PROJECT_DIR$/curso_java/Ejercicios/MenuOpciones/MenuOpciones.iml" />
+      <module fileurl="file://$PROJECT_DIR$/curso_java/Ejercicios/MetodosOrdenamiento/MetodosOrdenamiento.iml" filepath="$PROJECT_DIR$/curso_java/Ejercicios/MetodosOrdenamiento/MetodosOrdenamiento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/curso_java/Ejercicios/MultiplicacionConFor/MultiplicacionConFor.iml" filepath="$PROJECT_DIR$/curso_java/Ejercicios/MultiplicacionConFor/MultiplicacionConFor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/curso_java/Ejercicios/NombreMasLargo/NombreMasLargo.iml" filepath="$PROJECT_DIR$/curso_java/Ejercicios/NombreMasLargo/NombreMasLargo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/curso_java/Ejercicios/NotasAlumnosPromedios/NotasAlumnosPromedios.iml" filepath="$PROJECT_DIR$/curso_java/Ejercicios/NotasAlumnosPromedios/NotasAlumnosPromedios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/curso_java/Ejercicios/NumeroMenorOIgualA10/NumeroMenorOIgualA10.iml" filepath="$PROJECT_DIR$/curso_java/Ejercicios/NumeroMenorOIgualA10/NumeroMenorOIgualA10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/curso_java/Operadores/Operadores.iml" filepath="$PROJECT_DIR$/curso_java/Operadores/Operadores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/curso_java/Ejercicios/OrdenNumeros/OrdenNumeros.iml" filepath="$PROJECT_DIR$/curso_java/Ejercicios/OrdenNumeros/OrdenNumeros.iml" />
+      <module fileurl="file://$PROJECT_DIR$/curso_java/POO/POO.iml" filepath="$PROJECT_DIR$/curso_java/POO/POO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/curso_java/Paquetes/Paquetes.iml" filepath="$PROJECT_DIR$/curso_java/Paquetes/Paquetes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/curso_java/Ejercicios/ProgramaManejoDeNombres/ProgramaManejoDeNombres.iml" filepath="$PROJECT_DIR$/curso_java/Ejercicios/ProgramaManejoDeNombres/ProgramaManejoDeNombres.iml" />
+      <module fileurl="file://$PROJECT_DIR$/curso_java/Ejercicios/ProyectoOrdenCompra/ProyectoOrdenCompra.iml" filepath="$PROJECT_DIR$/curso_java/Ejercicios/ProyectoOrdenCompra/ProyectoOrdenCompra.iml" />
+      <module fileurl="file://$PROJECT_DIR$/curso_java/SentenciasDeControl/SentenciasDeControl.iml" filepath="$PROJECT_DIR$/curso_java/SentenciasDeControl/SentenciasDeControl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/curso_java/Ejercicios/SepararParesImpares/SepararParesImpares.iml" filepath="$PROJECT_DIR$/curso_java/Ejercicios/SepararParesImpares/SepararParesImpares.iml" />
+      <module fileurl="file://$PROJECT_DIR$/curso_java/SobrecargaMetodos/SobrecargaMetodos.iml" filepath="$PROJECT_DIR$/curso_java/SobrecargaMetodos/SobrecargaMetodos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/curso_java/TiposArrays/TiposArrays.iml" filepath="$PROJECT_DIR$/curso_java/TiposArrays/TiposArrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/curso_java/Ventanas/Ventanas.iml" filepath="$PROJECT_DIR$/curso_java/Ventanas/Ventanas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/curso_java/Ejercicios/areaCirculo/areaCirculo.iml" filepath="$PROJECT_DIR$/curso_java/Ejercicios/areaCirculo/areaCirculo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/curso_java/claseMath/claseMath.iml" filepath="$PROJECT_DIR$/curso_java/claseMath/claseMath.iml" />
+      <module fileurl="file://$PROJECT_DIR$/curso_java/claseRandom/claseRandom.iml" filepath="$PROJECT_DIR$/curso_java/claseRandom/claseRandom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/curso_java/Ejercicios/ejercicioOrdenamientoPrimeroUltimo/ejercicioOrdenamientoPrimeroUltimo.iml" filepath="$PROJECT_DIR$/curso_java/Ejercicios/ejercicioOrdenamientoPrimeroUltimo/ejercicioOrdenamientoPrimeroUltimo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/curso_java/getClass/getClass.iml" filepath="$PROJECT_DIR$/curso_java/getClass/getClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/curso_java/Ejercicios/histograma/histograma.iml" filepath="$PROJECT_DIR$/curso_java/Ejercicios/histograma/histograma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java.iml" filepath="$PROJECT_DIR$/.idea/java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/curso_java/Ejercicios/matrixDeX/matrixDeX.iml" filepath="$PROJECT_DIR$/curso_java/Ejercicios/matrixDeX/matrixDeX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/curso_java/Ejercicios/matrizDeX/matrizDeX.iml" filepath="$PROJECT_DIR$/curso_java/Ejercicios/matrizDeX/matrizDeX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/curso_java/Ejercicios/matrizH/matrizH.iml" filepath="$PROJECT_DIR$/curso_java/Ejercicios/matrizH/matrizH.iml" />
+      <module fileurl="file://$PROJECT_DIR$/curso_java/Ejercicios/mayorOcurrencia/mayorOcurrencia.iml" filepath="$PROJECT_DIR$/curso_java/Ejercicios/mayorOcurrencia/mayorOcurrencia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/curso_java/Ejercicios/miConfiguracion/miConfiguracion.iml" filepath="$PROJECT_DIR$/curso_java/Ejercicios/miConfiguracion/miConfiguracion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/curso_java/Ejercicios/numeroMasAltoArray/numeroMasAltoArray.iml" filepath="$PROJECT_DIR$/curso_java/Ejercicios/numeroMasAltoArray/numeroMasAltoArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/curso_java/Ejercicios/promedioPositivosNegativosYCeros/promedioPositivosNegativosYCeros.iml" filepath="$PROJECT_DIR$/curso_java/Ejercicios/promedioPositivosNegativosYCeros/promedioPositivosNegativosYCeros.iml" />
+      <module fileurl="file://$PROJECT_DIR$/curso_java/strings/strings.iml" filepath="$PROJECT_DIR$/curso_java/strings/strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/curso_java/Ejercicios/ventanaEj/ventanaEj.iml" filepath="$PROJECT_DIR$/curso_java/Ejercicios/ventanaEj/ventanaEj.iml" />
+    </modules>
+  </component>
+</project>

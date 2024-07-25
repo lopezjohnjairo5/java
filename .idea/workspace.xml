@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d620fc9b-535a-49ae-9962-c9283dd1878b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/curso_java/ArgumentosLineaComandos/ArgumentosLineaComandos.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/curso_java/Arrays/Arrays.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/curso_java/Bucles/Bucles.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/curso_java/ClaseRuntime/ClaseRuntime.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/curso_java/ClaseSystem/ClaseSystem.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/curso_java/ConversionTipos/ConversionTipos.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/curso_java/Ejercicios/CalculadoraLineaComandos/CalculadoraLineaComandos.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/curso_java/Ejercicios/CalculoEdad/CalculoEdad.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/curso_java/Ejercicios/CapacidadTanqueGas/CapacidadTanqueGas.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/curso_java/Ejercicios/DetalleDeFactura/DetalleDeFactura.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/curso_java/Ejercicios/EjemploLogin/EjemploLogin.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/curso_java/Ejercicios/ImprimirNombreConsola/ImprimirNombreConsola.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/curso_java/Ejercicios/MenuOpciones/MenuOpciones.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/curso_java/Ejercicios/MetodosOrdenamiento/MetodosOrdenamiento.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/curso_java/Ejercicios/MultiplicacionConFor/MultiplicacionConFor.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/curso_java/Ejercicios/NombreMasLargo/NombreMasLargo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/curso_java/Ejercicios/NotasAlumnosPromedios/NotasAlumnosPromedios.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/curso_java/Ejercicios/NumeroMenorOIgualA10/NumeroMenorOIgualA10.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/curso_java/Ejercicios/OrdenNumeros/OrdenNumeros.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/curso_java/Ejercicios/ProgramaManejoDeNombres/ProgramaManejoDeNombres.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/curso_java/Ejercicios/ProyectoOrdenCompra/ProyectoOrdenCompra.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/curso_java/Ejercicios/SepararParesImpares/SepararParesImpares.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/curso_java/Ejercicios/areaCirculo/areaCirculo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/curso_java/Ejercicios/ejercicioOrdenamientoPrimeroUltimo/ejercicioOrdenamientoPrimeroUltimo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/curso_java/Ejercicios/histograma/histograma.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/curso_java/Ejercicios/matrixDeX/matrixDeX.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/curso_java/Ejercicios/matrizDeX/matrizDeX.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/curso_java/Ejercicios/matrizH/matrizH.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/curso_java/Ejercicios/mayorOcurrencia/mayorOcurrencia.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/curso_java/Ejercicios/miConfiguracion/miConfiguracion.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/curso_java/Ejercicios/numeroMasAltoArray/numeroMasAltoArray.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/curso_java/Ejercicios/promedioPositivosNegativosYCeros/promedioPositivosNegativosYCeros.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/curso_java/Ejercicios/ventanaEj/ventanaEj.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/curso_java/Fechas/Fechas.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/curso_java/Herencia/Herencia.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/curso_java/InstanceOf/InstanceOf.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/curso_java/Matrices/Matrices.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/curso_java/Operadores/Operadores.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/curso_java/POO/POO.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/curso_java/Paquetes/Paquetes.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/curso_java/SentenciasDeControl/SentenciasDeControl.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/curso_java/SobrecargaMetodos/SobrecargaMetodos.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/curso_java/TiposArrays/TiposArrays.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/curso_java/Ventanas/Ventanas.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/curso_java/claseMath/claseMath.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/curso_java/claseRandom/claseRandom.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/curso_java/getClass/getClass.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/curso_java/strings/strings.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2jkjGvi3pqKfbIkcBGFeVaTucWr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/proyectos/java"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d620fc9b-535a-49ae-9962-c9283dd1878b" name="Changes" comment="" />
+      <created>1721937884056</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721937884056</updated>
+    </task>
+    <servers />
+  </component>
+</project>
