@@ -22,7 +22,7 @@ public class InputForm extends ElementoForm{
     }
 
     // methods
-
+    @Override
     public String printHtml(){
         return "<input type='" + this.tipo
                 + "' name='" + this.nombre

@@ -33,7 +33,7 @@ public class TextAreaForm extends ElementoForm{
     public void setColumnas(int columnas) {
         this.columnas = columnas;
     }
-
+    @Override
     public String printHtml() {
         return "<textarea name='"+ this.nombre +
                 "' rows='" + this.filas
