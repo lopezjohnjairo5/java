@@ -1,6 +1,9 @@
 package com.jj.clasesabstractas;
 import com.jj.clasesabstractas.form.elementos.*;
 import com.jj.clasesabstractas.form.elementos.select.Options;
+import com.jj.clasesabstractas.form.validador.*;
+import com.jj.clasesabstractas.form.validador.Number;
+
 import java.util.ArrayList;
 import java.util.List;
 /*
@@ -27,6 +30,20 @@ public class Main {
         TextAreaForm experiencia = new TextAreaForm("exp", 30, 30);
 
         SelectForm lenguajes = new SelectForm("langs");
+
+        // validando campos
+        nombreUsuario.addValidador(new Required());
+
+        passwordUsuario.addValidador(new Required());
+        passwordUsuario.addValidador(new Len(6,12));
+
+        emailUsuario.addValidador(new Required());
+        emailUsuario.addValidador(new Email());
+
+        edadUsuario.addValidador(new Required());
+        edadUsuario.addValidador(new Number());
+
+        lenguajes.addValidador(new Null());
 
         // dando valores a los inputs
         nombreUsuario.setValor("John");
@@ -77,5 +94,13 @@ public class Main {
             }
         };
         System.out.println(anonima.printHtml());
+
+        // validando elementos
+        elementos.forEach((e) -> {
+            if (!e.isValid()){
+                //e.getErrors().forEach(System.out::println); // usando el alias | atajo de impresion por consola o metodo por referencia es el equivalente a: "e -> system.out.println(e)"
+                e.getErrors().forEach((error) -> System.out.println(e.getNombre() + ": " + error));
+            }
+        });
     }
 }
