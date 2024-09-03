@@ -54,5 +54,46 @@ public class Main {
 
         // imprimiento treeset
         System.out.println("ts = " + ts);
+
+
+        // metodos importantes listas
+        System.out.println("tamanno lista: " + list.size()); // muestra el tamaño de la lista
+        System.out.println("verificar si esta vacia: " + list.isEmpty()); // muestra si esta vacia o no
+        list.add(0,"uno"); // agrega un nuevo valor en la posicion indicada por parametro
+        list.add(1,"dos");
+        list.add(2,"tres");
+        list.add(3,"cuatro");
+        list.add(4,"seis");
+        list.add(4,"cinco"); // agregamos el cinco en la posicion que tenia el 6, de esta forma el seis se corre una posicion
+        list.remove(0); // remueve el elemento presente en el indice pasado por parametro
+        System.out.println("list = " + list);
+
+        System.out.println("Existe el cuatro: " + list.contains("cuatro")); // verificamos si existe el valor pasado por parametro en la lista
+
+        // LinkedList
+        LinkedList<String> numerosRomanos = new LinkedList<>();
+        numerosRomanos.add("II");
+        numerosRomanos.add("III");
+        numerosRomanos.add("IV");
+        numerosRomanos.add("V");
+        numerosRomanos.add("VI");
+        numerosRomanos.add("VII");
+        numerosRomanos.add("VIII");
+        numerosRomanos.add("IX");
+
+        // añadiendo valores al principio y al final
+        numerosRomanos.addFirst("I");
+        numerosRomanos.addLast("X");
+
+        // obteniendo valores de la lista enlazada
+        System.out.println("cuarto valor (indice 3): " + numerosRomanos.get(3));
+
+        // removiendo valores de la lista enlazada
+        System.out.println("contenido lista enlazada antes de remover valores: " + numerosRomanos);
+        numerosRomanos.removeFirst();
+        numerosRomanos.removeLast();
+        numerosRomanos.remove(5);
+        numerosRomanos.add(5,"Hola");
+        System.out.println("contenido lista enlazada: " + numerosRomanos);
     }
 }
