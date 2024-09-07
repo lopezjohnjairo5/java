@@ -1,0 +1,56 @@
+JAVA
+
+- comentarios
+	- unilinea //
+	- multilinea /* ... */
+
+- tipos de datos
+	- primitivos
+		- int
+		- double
+		- float
+		- boolean
+		- char
+		- short
+		- long
+		- byte
+	- objetos | clases wrapper (son objetos y por tanto poseen métodos, se pueden usar para hacer conversiones de tipo o CAST)
+		- String
+		- Integer
+		- Float
+		- Double
+		- Character
+		- Short
+		- Long
+		- Byte
+		- Number
+		
+- visibilidad
+	- public
+	- private
+	- protected
+	
+- modificadores	
+	- final
+	- static
+	
+- clases
+	- abstractas
+	- interfaces
+	- inner class
+	- genericas
+	- enum
+
+- Colecciones
+	- Listas
+		- arrayList
+		- linkedList
+		- Vector
+	- Set (no admiten valores duplicados)
+		- hashset
+			- linkedHashSet
+		- sortedSet
+			- treeset
+	- Map
+		- hashMap
+		- treeMap

@@ -95,5 +95,20 @@ public class Main {
         numerosRomanos.remove(5);
         numerosRomanos.add(5,"Hola");
         System.out.println("contenido lista enlazada: " + numerosRomanos);
+
+        // trabajando con listiterator
+        ListIterator<String> romanos = numerosRomanos.listIterator();
+
+        System.out.println("\nIterando romanos");
+        while(romanos.hasNext()){
+            String num = romanos.next();
+            System.out.println("num = " + num);
+        }
+
+        System.out.println("\nIterando romanos en reversa");
+        while(romanos.hasPrevious()){
+            String num = romanos.previous();
+            System.out.println("num = " + num);
+        }
     }
 }
